@@ -1,2 +1,14 @@
+.item-1{
+	background-color: black;
+	width: 150px;
+	height: 150px;
 
-/* Your CSS Code here. */
+}
+.container{
+	display: flex;
+	background-color: red;
+    height: 400px;
+	justify-content:center;
+	align-items:center;
+	position:center;
+}
