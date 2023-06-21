@@ -4,7 +4,7 @@
 	height: 150px;
 
 }
-.container{
+.holder{
 	display: flex;
 	background-color: red;
     height: 400px;
